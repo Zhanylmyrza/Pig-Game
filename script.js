@@ -77,17 +77,5 @@ btnHold.addEventListener('click', function () {
   }
 });
 btnNew.addEventListener('click', init);
-//function () {
-// diceEL.classList.add('hidden');
-// playing = true;
-// currentScore = 0;
-// score0EL.textContent = 0;
-// score1EL.textContent = 0;
-// current0EL.textContent = 0;
-// current1EL.textContent = 0;
-// player0EL.classList.add('player--active');
-// player1EL.classList.remove('player--active');
-// document
-//   .querySelector(`.player--${activePlayer}`)
-//   .classList.remove('player--winner');
-//});
+
+
